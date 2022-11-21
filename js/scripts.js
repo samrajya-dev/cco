@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Samrajya',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a>',
-    '<a target="_blank" href="https://instagram.com/samrajya.dev">instagram.com/samrajya.dev</a><br><a target="_blank" href="https://www.linkedin.com/in/samrajya/">linkedin.com/in/samrajya</a><br><a target="_blank" href="https://github.com/samrajyapujari">github.com/samrajyapujari</a>',
+    '<a target="_blank" href="https://instagram.com/samrajya.dev">instagram.com/samrajya.dev</a><br><a target="_blank" href="https://www.linkedin.com/in/samrajya/">linkedin.com/in/samrajya</a><br><a target="_blank" href="https://api.whatsapp.com/send/?phone=918208119960">WhatsApp 820-811-9960</a>',
     getCurrentTime(),
     '👀 S.'
   ]
