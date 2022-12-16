@@ -24,12 +24,9 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Samrajya',
-    'Welcome to my site.',
     'I design and code things on the web',
-    'I work as a <b>web</b> , <b>mobile</b> , <b>game</b> and <b>application</b> developer in Pune 🇮🇳.',
-    'My site is currently under construction.',
-    'Contact: <a href="mailto:hello@samrajya.dev">hello(at)samrajya.dev</a>',
-    '<a href="mailto:hello@samrajya.dev">email</a> / <a target="_blank" href="https://instagram.com/samrajya.dev">instagram</a> / <a target="_blank" href="https://twitter.com/samrajya22">twitter</a> / <a target="_blank" href="https://www.linkedin.com/in/samrajya/">linkedin</a> / <a target="_blank" href="https://api.whatsapp.com/send/?phone=918208119960">WhatsApp</a>'
+    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a>',
+    '<a target="_blank" href="https://instagram.com/samrajya.dev">instagram.com/samrajya.dev</a><br><a target="_blank" href="https://www.linkedin.com/in/samrajya/">linkedin.com/in/samrajya</a><br><a target="_blank" href="https://api.whatsapp.com/send/?phone=918208119960">WhatsApp 820-811-9960</a>',
     getCurrentTime(),
     '👀 S.'
   ]
