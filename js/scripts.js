@@ -22,17 +22,16 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Samrajya',
-    'Welcome to my site.',
-    'I design and code things on the web',
-    'I work as a <strong>web</strong> , <strong>mobile</strong> , <strong>game</strong> and <strong>application</strong> developer in Pune 🇮🇳.',
-    'My site is currently under construction.',
-    'Contact: <a href="mailto:hello@samrajya.dev">hello(at)samrajya.dev</a>',
-    '<a href="mailto:hello@samrajya.dev">email</a> / <a target="_blank" href="https://instagram.com/samrajya.dev">instagram</a> / <a target="_blank" href="https://twitter.com/samrajya22">twitter</a> / <a target="_blank" href="https://www.linkedin.com/in/samrajya/">linkedin</a> / <a target="_blank" href="https://api.whatsapp.com/send/?phone=918208119960">WhatsApp</a>',
+    '👋 Hey there! 🌟',
+    'I\'m <strong>Samrajya</strong>, an entrepreneur and engineer. I build innovative solutions. 🧠💼',
+    'Super-talented <strong>DevOps</strong> Engineer, and <strong>Web Apps</strong> Developer. 💻🔧',
+    'Have an exciting project? interested in collaboration, or want to join our talented team, Reach out at <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
+    'Connect with me on <a target="_blank" href="https://instagram.com/fabulous_samrajya">Instagram</a>, <a target="_blank" href="https://twitter.com/samrajya_dev">Twitter</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a> to stay in the loop. 💼',
+    'Join us for an extraordinary journey. 🚀✨',
+    'Let\'s make wonders happen together! 💪🤝 Email your portfolio.',
     
     getCurrentTime(),
-    '👀 S.'
+    'Cheers! 👀 S.'
   ]
 
   var getFontSize = function() {
