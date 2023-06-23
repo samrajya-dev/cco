@@ -22,13 +22,22 @@ window.onload = function() {
   }
 
   var messages = [
+
+    // '👋 Hey there! 🌟',
+    // 'I\'m <strong>Samrajya</strong>, an entrepreneur and engineer. I build innovative solutions. 🧠💼',
+    // 'Super-talented <strong>DevOps</strong> Engineer, and <strong>Web Apps</strong> Developer. 💻🔧',
+    // 'Have an exciting project? interested in collaboration, Reach out at <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
+    // 'Connect with me on <a target="_blank" href="https://instagram.com/fabulous_samrajya">Instagram</a>, <a target="_blank" href="https://twitter.com/samrajya_dev">Twitter</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a> to stay in the loop. 💼',
+    // 'Join me on extraordinary journey. 🚀✨',
+    // 'Let\'s make wonders happen together! 💪🤝',
+    
     '👋 Hey there! 🌟',
-    'I\'m <strong>Samrajya</strong>, an entrepreneur and engineer. I build innovative solutions. 🧠💼',
-    'Super-talented <strong>DevOps</strong> Engineer, and <strong>Web Apps</strong> Developer. 💻🔧',
-    'Have an exciting project? interested in collaboration, or want to join our talented team, Reach out at <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
+    'I\'m <strong>Samrajya</strong>, Super-talented <strong>Cloud DevOps</strong> Engineer 💻🔧 ',
+    'I build innovative solutions. 🧠💼',
+    'Email: <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
     'Connect with me on <a target="_blank" href="https://instagram.com/fabulous_samrajya">Instagram</a>, <a target="_blank" href="https://twitter.com/samrajya_dev">Twitter</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a> to stay in the loop. 💼',
-    'Join us for an extraordinary journey. 🚀✨',
-    'Let\'s make wonders happen together! 💪🤝 Email your portfolio.',
+    'Join me on extraordinary journey. 🚀✨',
+    'Let\'s make wonders happen together! 💪🤝',
     
     getCurrentTime(),
     'Cheers! 👀 S.'
