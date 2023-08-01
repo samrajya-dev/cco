@@ -32,7 +32,8 @@ window.onload = function() {
     // 'Let\'s make wonders happen together! 💪🤝',
     
     '👋 Hey there! 🌟',
-    'I\'m <strong>Samrajya</strong>, Super-talented <strong>Cloud DevOps</strong> Engineer 💻🔧 ',
+    //'I\'m <strong>Samrajya</strong>, Super-talented <strong>Cloud DevOps</strong> Engineer 💻🔧 ',
+    'I\'m <strong>Samrajya</strong>, <strong>Full-Stack Developer & Cloud DevOps</strong> Engineer 💻🔧 ',
     'I build innovative solutions. 🧠💼',
     'Email: <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
     'Connect with me on <a target="_blank" href="https://instagram.com/fabulous_samrajya">Instagram</a>, <a target="_blank" href="https://twitter.com/samrajya_dev">Twitter</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a> to stay in the loop. 💼',
