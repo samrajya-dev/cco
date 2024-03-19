@@ -31,15 +31,20 @@ window.onload = function() {
     // 'Join me on extraordinary journey. 🚀✨',
     // 'Let\'s make wonders happen together! 💪🤝',
     
-    '👋 Hey there! 🌟',
+    //'👋 Hey there! 🌟',
     //'I\'m <strong>Samrajya</strong>, Super-talented <strong>Cloud DevOps</strong> Engineer 💻🔧 ',
-    'I\'m <strong>Samrajya</strong>, <strong>Full-Stack Developer & Cloud DevOps</strong> Engineer 💻🔧 ',
-    'I build innovative solutions. 🧠💼',
-    'Email: <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
-    'Connect with me on <a target="_blank" href="https://instagram.com/fabulous_samrajya">Instagram</a>, <a target="_blank" href="https://twitter.com/samrajya_dev">Twitter</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a> to stay in the loop. 💼',
-    'Join me on extraordinary journey. 🚀✨',
-    'Let\'s make wonders happen together! 💪🤝',
+    //'I\'m <strong>Samrajya</strong>, <strong>Full-Stack Developer & Cloud DevOps</strong> Engineer 💻🔧 ',
+    //'I build innovative solutions. 🧠💼',
+    //'Email: <strong><a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a></strong>. 📧',
+    //'Connect with me on <a target="_blank" href="https://instagram.com/fabulous_samrajya">Instagram</a>, <a target="_blank" href="https://twitter.com/samrajya_dev">Twitter</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a> to stay in the loop. 💼',
+    //'Join me on extraordinary journey. 🚀✨',
+    //'Let\'s make wonders happen together! 💪🤝',
     
+    '👋 Hey there! 🌟',
+    'I\'m Samrajya',
+    'I build innovative solutions. 🧠💼',
+    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@samrajya.dev">hello@samrajya.dev</a>',
+    '<a target="_blank" href="https://x.com/samrajya_dev">x.com/samrajya_dev</a>, <a target="_blank" href="https://www.linkedin.com/in/samrajya/">LinkedIn </a>',
     getCurrentTime(),
     'Cheers! 👀 S.'
   ]
